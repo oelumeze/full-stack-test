@@ -26,7 +26,6 @@ Your supervisor has instructed you to create the next Spotify. Your MVP requirem
 * Logged in users should be able to perform write actions with the Album Rest API
     * UI should enable you create, update and delete
 
-**PLEASE DO NOT USE ANY THIRD PARTY LIBRARIES IN YOUR FRONT END CODE** .
 
 
 ## Have Fun!
